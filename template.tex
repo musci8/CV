@@ -1,0 +1,219 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Twenty Seconds Resume/CV
+% LaTeX Template
+% Version 1.1 (8/1/17)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Carmine Spagnuolo (cspagnuolo@unisa.it) with major modifications by 
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[letterpaper]{twentysecondcv} % a4paper for A4
+\usepackage[most]{tcolorbox}
+\usepackage{xcolor}
+
+\newtcolorbox{bgbox}[1][]{nobeforeafter,leftright skip=0pt,boxrule=0pt,enhanced jigsaw,sharp corners,#1}
+%----------------------------------------------------------------------------------------
+%	 PERSONAL INFORMATION
+%----------------------------------------------------------------------------------------
+
+% If you don't need one or more of the below, just remove the content leaving the command, e.g. \cvnumberphone{}
+
+\profilepic{Federico.png} % Profile picture
+
+\cvname{Federico\\ Musciotto} % Your name
+\cvjobtitle{Research Fellow} % Job title/career
+
+\cvdate{} % Date of birth
+\cvaddress{Gutenberg ter 4, Budapest, Hungary, 1088} % Short address/location, use \newline if more than 1 line is required
+\cvnumberphone{+39 3936232451} % Phone number
+\cvsite{https://linkedin.com/in/musci8/} % Personal website
+\cvmail{musci8@gmail.com} % Email address
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	 ABOUT ME
+%----------------------------------------------------------------------------------------
+
+\aboutme{I am a young physicist with a deep interest in complexity and its challenges. During my experience as a researcher I've built a strong knowledge on networks, financial big data and computational social science. My personal career goal is to work in an open environment in which the newest ideas are applied to reshape our world in a more fair and efficient way. I am a quick learner and I genuinely enjoy the idea of mixing expertise and knowledge from different disciplines to get something completely new.} % To have no About Me section, just remove all the text and leave \aboutme{}
+%obtain a better understanding of our world and
+%----------------------------------------------------------------------------------------
+%	 SKILLS
+%----------------------------------------------------------------------------------------
+
+% Skill bar section, each skill must have a value between 0 an 6 (float)
+\skills{{MongoDB/3},{C++/4},{Git/5.},{Bash/5.5},{MySQL/5.8},{Python/5.80}}
+
+
+
+
+%------------------------------------------------
+
+% Skill text section, each skill must have a value between 0 an 6
+%\skillstext{{lovely/4},{narcissistic/3}}
+
+%----------------------------------------------------------------------------------------
+
+\makeprofile % Print the sidebar
+
+%----------------------------------------------------------------------------------------
+%	 INTERESTS
+%----------------------------------------------------------------------------------------
+
+%----------------------------------------------------------------------------------------
+%	 EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\section{Experience}
+
+\begin{twenty} % Environment for a list with descriptions
+	\twentyitem{2018-current}{Research Fellow}{CEU, Budapest}{Computational Social Science, Science of Science}
+
+	\twentyitem{2017}{Visiting researcher}{University of Turku}{Data engineering}
+
+	\twentyitem{2017}{Teaching Assistant}{CEU, Budapest}{Statistical Methods in Network Science}
+
+	\twentyitem{2010-2011}{Internship}{ISTAT, Catania}{Collection and analysis of statistical surveys}
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+%	 EDUCATION
+%----------------------------------------------------------------------------------------
+
+\section{Education}
+
+\begin{twenty} % Environment for a list with descriptions
+
+	\twentyitem{2015-2017}{Ph.D.}{University of Palermo}{Statistical validation of investment decisions and transactions in financial markets}
+	\twentyitem{2015-2016}{Visiting Phd student at the Center for Network Science}{CEU, Budapest}{Applied research on Network Science}
+	\twentyitem{2011-2014}{M.Sc. First class honours}{University of Padova}{Majoring in Theoretical Physics}
+	\twentyitem{2008-2011}{B.Sc. First class honours}{University of Catania}{Majoring in Physics}
+	\twentyitem{2003-2008}{High school}{Acireale}{Specializing in classical studies}
+	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
+\end{twenty}
+
+
+
+\section{Projects}
+
+\begin{twenty}
+	\twentyitem{2019}{EU Datathon Finalist}{}{}
+\end{twenty}
+
+\section{Organized workshops}
+
+\begin{twenty}
+	\twentyitem{2019}{NetSci}{Burlington}{Quantifying Success}
+\end{twenty}
+
+
+
+%----------------------------------------------------------------------------------------
+%	 PUBLICATIONS
+%----------------------------------------------------------------------------------------
+
+\section{Publications}
+
+\begin{twenty} % Environment for a short list with no descriptions
+
+	\twentyitem{2019}{Closing the Gender Gap: Balance versus Equality}{}{submitted}
+
+	\twentyitem{2019}{Science of Success: An introduction}{}{Proceedings of the International School of Physics “Enrico Fermi”, in press}
+
+	\twentyitem{2019}{Taking Census of Physics}{}{Nature Review Physics}
+	
+	\twentyitem{2018}{Bootstrap validation of links of a minimum spanning tree}{}{Physica A}
+
+	\twentyitem{2018}{Long-term ecology of investors in a financial market}{}{Palgrave Communication}
+
+	\twentyitem{2016}{Patterns of trading profiles at the nordic stock exchange. A correlation-based approach}{}{Chaos, Solitons and Fractals}
+	\\
+	\twentyitem{2016}{Mining social interactions in privacy-preserving temporal network}{}{ASONAM}
+	\\
+	%\twentyitemshort{2017}{}
+\end{twenty}
+
+
+
+%----------------------------------------------------------------------------------------
+%	 AWARDS
+%----------------------------------------------------------------------------------------
+
+\newpage
+
+\begin{tikzpicture}[remember picture,overlay]
+   		\node [rectangle, fill=sidecolor, anchor=north, minimum width=9cm, minimum height=\paperheight+1cm] (box) at (-5cm,0.5cm){};
+	\end{tikzpicture}
+
+
+\section{Conferences and Schools}
+
+\begin{twenty}
+	\twentyitem{2019}{NetSci}{Burlington}{Contributed talk}
+	\twentyitem{2018}{Conference on Complex Systems}{Thessaloniki}{2 Contributed talks}
+	\twentyitem{2018}{International School of Physics "Enrico Fermi"}{Varenna}{}
+	\twentyitem{2018}{NetSci}{Paris}{2 Contributed talks}
+	\twentyitem{2017}{International Conference on Computational Social Science}{Cologne}{Contributed talk, Poster}
+	\twentyitem{2017}{Series on Data science and Complex network analysis}{Szeged}{Invited talk}
+	\twentyitem{2016}{CDT Easter School, University of Liverpool}{Liverpool}{Invited talk}
+	\twentyitem{2016}{ASONAM}{San Francisco}{Contributed talk}
+	\twentyitem{2015}{Networks, Complexity, and Economic Development}{Budapest}{Contributed talk}
+	\twentyitem{2015}{Lipari School on Computational Complex Systems}{Lipari}{}
+
+\end{twenty}
+
+
+\section{Languages}
+
+\begin{twenty}
+	\twentyitem{English}{Full working proficiency}{}{}
+	\twentyitem{Italian}{Native proficiency}{}{}
+	\twentyitem{Spanish}{Conversational level}{}{}
+\end{twenty}
+%----------------------------------------------------------------------------------------
+%	 OTHER INFORMATION
+%----------------------------------------------------------------------------------------
+
+%\section{Other information}
+
+%\subsection{Review}
+
+%Alice approaches Wonderland as an anthropologist, but maintains a strong sense of noblesse oblige that comes with her class status. She has confidence in her social position, education, and the Victorian virtue of good manners. Alice has a feeling of entitlement, particularly when comparing herself to Mabel, whom she declares has a ``poky little house," and no toys. Additionally, she flaunts her limited information base with anyone who will listen and becomes increasingly obsessed with the importance of good manners as she deals with the rude creatures of Wonderland. Alice maintains a superior attitude and behaves with solicitous indulgence toward those she believes are less privileged.
+
+%----------------------------------------------------------------------------------------
+%	 SECOND PAGE EXAMPLE
+%----------------------------------------------------------------------------------------
+
+%\newpage % Start a new page
+
+%\makeprofile % Print the sidebar
+
+%\section{Other information}
+
+%\subsection{Review}
+
+%Alice approaches Wonderland as an anthropologist, but maintains a strong sense of noblesse oblige that comes with her class status. She has confidence in her social position, education, and the Victorian virtue of good manners. Alice has a feeling of entitlement, particularly when comparing herself to Mabel, whom she declares has a ``poky little house," and no toys. Additionally, she flaunts her limited information base with anyone who will listen and becomes increasingly obsessed with the importance of good manners as she deals with the rude creatures of Wonderland. Alice maintains a superior attitude and behaves with solicitous indulgence toward those she believes are less privileged.
+
+%\section{Other information}
+
+%\subsection{Review}
+
+%Alice approaches Wonderland as an anthropologist, but maintains a strong sense of noblesse oblige that comes with her class status. She has confidence in her social position, education, and the Victorian virtue of good manners. Alice has a feeling of entitlement, particularly when comparing herself to Mabel, whom she declares has a ``poky little house," and no toys. Additionally, she flaunts her limited information base with anyone who will listen and becomes increasingly obsessed with the importance of good manners as she deals with the rude creatures of Wonderland. Alice maintains a superior attitude and behaves with solicitous indulgence toward those she believes are less privileged.
+
+%----------------------------------------------------------------------------------------
+
+\end{document} 
