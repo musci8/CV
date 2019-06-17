@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1560780803 "CV_Musciotto.tex" "CV_Musciotto.pdf" "CV_Musciotto" 1560780804
+["pdflatex"] 1560780803 "CV_Musciotto.tex" "CV_Musciotto.pdf" "CV_Musciotto" 1560781014
   "/dev/null" 1560699553 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/share/texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc" 1550407196 2877 6ddb27cbef539831b4076105c848e789 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1550406775 3332 103109f5612ad95229751940c61aada0 ""
@@ -183,7 +183,7 @@
   "Federico.png" 1560780224 2813926 10bdab9ea213f8b135def3ed2d5f5e6d ""
   "twentysecondcv.cls" 1560780224 8614 1b6ca0178127e9277efffcc531976c51 ""
   (generated)
-  "CV_Musciotto.log"
-  "CV_Musciotto.aux"
   "CV_Musciotto.out"
+  "CV_Musciotto.aux"
   "CV_Musciotto.pdf"
+  "CV_Musciotto.log"
