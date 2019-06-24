@@ -296,9 +296,9 @@ INPUT ./CV_Musciotto.out
 OUTPUT CV_Musciotto.out
 INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
-INPUT Federico.png
-INPUT ./Federico.png
-INPUT ./Federico.png
+INPUT Federico1.png
+INPUT ./Federico1.png
+INPUT ./Federico1.png
 INPUT /usr/share/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-lf-t1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-lf-t1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm

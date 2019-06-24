@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.6.6)  17 JUN 2019 16:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.6.21)  24 JUN 2019 18:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -484,10 +484,6 @@ Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 ) (/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
 )))) (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
  (/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
@@ -600,7 +596,7 @@ Package: geometry 2018/04/16 v5.8 Page Geometry
 \Gm@layoutvoffset=\dimen170
 \Gm@dimlist=\toks29
 )) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
-Package: tcolorbox 2018/12/07 version 4.15 text color boxes
+Package: tcolorbox 2019/03/02 version 4.20 text color boxes
  (/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks30
@@ -627,24 +623,24 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@out=\write4
 \tcb@record@out=\write5
  (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
-Library (tcolorbox): 'tcbraster.code.tex' version '4.15'
+Library (tcolorbox): 'tcbraster.code.tex' version '4.20'
 \c@tcbrastercolumn=\count130
 \c@tcbrasterrow=\count131
 \c@tcbraster=\count132
 ) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
-Library (tcolorbox): 'tcbskins.code.tex' version '4.15'
+Library (tcolorbox): 'tcbskins.code.tex' version '4.20'
 \tcb@waterbox=\box48
 (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
-Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '4.15'
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '4.20'
 )) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
-Library (tcolorbox): 'tcbbreakable.code.tex' version '4.15'
+Library (tcolorbox): 'tcbbreakable.code.tex' version '4.20'
 \tcb@testbox=\box49
 \tcb@totalupperbox=\box50
 \tcb@totallowerbox=\box51
 ) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
-Library (tcolorbox): 'tcbhooks.code.tex' version '4.15'
+Library (tcolorbox): 'tcbhooks.code.tex' version '4.20'
 ) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
-Library (tcolorbox): 'tcbtheorems.code.tex' version '4.15'
+Library (tcolorbox): 'tcbtheorems.code.tex' version '4.20'
 (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip63
@@ -700,28 +696,29 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
 )) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
-Library (tcolorbox): 'tcbfitting.code.tex' version '4.15'
+Library (tcolorbox): 'tcbfitting.code.tex' version '4.20'
 \tcbfitdim=\dimen180
 \tcb@lowerfitdim=\dimen181
 \tcb@upperfitdim=\dimen182
 \tcb@cur@hbadness=\count145
 ) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbxparse.code.tex
-Library (tcolorbox): 'tcbxparse.code.tex' version '4.15'
+Library (tcolorbox): 'tcbxparse.code.tex' version '4.20'
 (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2019-02-15 L3 programming layer (loader) 
+Package: expl3 2019-04-06 L3 programming layer (loader) 
  (/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2019-02-15 L3 programming layer (code)
+Package: expl3 2019-04-06 L3 programming layer (code)
 \c_max_int=\count146
 \l_tmpa_int=\count147
 \l_tmpb_int=\count148
 \g_tmpa_int=\count149
 \g_tmpb_int=\count150
 \g__kernel_prg_map_int=\count151
-\c_log_iow=\count152
-\l_iow_line_count_int=\count153
-\l__iow_line_target_int=\count154
-\l__iow_one_indent_int=\count155
-\l__iow_indent_int=\count156
+\c__ior_term_ior=\count152
+\c_log_iow=\count153
+\l_iow_line_count_int=\count154
+\l__iow_line_target_int=\count155
+\l__iow_one_indent_int=\count156
+\l__iow_indent_int=\count157
 \c_zero_dim=\dimen183
 \c_max_dim=\dimen184
 \l_tmpa_dim=\dimen185
@@ -740,78 +737,78 @@ Package: expl3 2019-02-15 L3 programming layer (code)
 \l_tmpb_muskip=\muskip15
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
-\l_keys_choice_int=\count157
-\l__intarray_loop_int=\count158
+\l_keys_choice_int=\count158
+\l__intarray_loop_int=\count159
 \c__intarray_sp_dim=\dimen189
-\g__intarray_font_int=\count159
-\c__fp_leading_shift_int=\count160
-\c__fp_middle_shift_int=\count161
-\c__fp_trailing_shift_int=\count162
-\c__fp_big_leading_shift_int=\count163
-\c__fp_big_middle_shift_int=\count164
-\c__fp_big_trailing_shift_int=\count165
-\c__fp_Bigg_leading_shift_int=\count166
-\c__fp_Bigg_middle_shift_int=\count167
-\c__fp_Bigg_trailing_shift_int=\count168
-\c__kernel_randint_max_int=\count169
-\g__fp_array_int=\count170
-\l__fp_array_loop_int=\count171
-\l__sort_length_int=\count172
-\l__sort_min_int=\count173
-\l__sort_top_int=\count174
-\l__sort_max_int=\count175
-\l__sort_true_max_int=\count176
-\l__sort_block_int=\count177
-\l__sort_begin_int=\count178
-\l__sort_end_int=\count179
-\l__sort_A_int=\count180
-\l__sort_B_int=\count181
-\l__sort_C_int=\count182
-\l__tl_analysis_normal_int=\count183
-\l__tl_analysis_index_int=\count184
-\l__tl_analysis_nesting_int=\count185
-\l__tl_analysis_type_int=\count186
-\l__regex_internal_a_int=\count187
-\l__regex_internal_b_int=\count188
-\l__regex_internal_c_int=\count189
-\l__regex_balance_int=\count190
-\l__regex_group_level_int=\count191
-\l__regex_mode_int=\count192
-\c__regex_cs_in_class_mode_int=\count193
-\c__regex_cs_mode_int=\count194
-\l__regex_catcodes_int=\count195
-\l__regex_default_catcodes_int=\count196
-\c__regex_catcode_D_int=\count197
-\c__regex_catcode_S_int=\count198
-\c__regex_catcode_L_int=\count199
-\c__regex_catcode_O_int=\count266
-\c__regex_catcode_A_int=\count267
-\c__regex_all_catcodes_int=\count268
-\l__regex_show_lines_int=\count269
-\l__regex_min_state_int=\count270
-\l__regex_max_state_int=\count271
-\l__regex_left_state_int=\count272
-\l__regex_right_state_int=\count273
-\l__regex_capturing_group_int=\count274
-\l__regex_min_pos_int=\count275
-\l__regex_max_pos_int=\count276
-\l__regex_curr_pos_int=\count277
-\l__regex_start_pos_int=\count278
-\l__regex_success_pos_int=\count279
-\l__regex_curr_char_int=\count280
-\l__regex_curr_catcode_int=\count281
-\l__regex_last_char_int=\count282
-\l__regex_case_changed_char_int=\count283
-\l__regex_curr_state_int=\count284
-\l__regex_step_int=\count285
-\l__regex_min_active_int=\count286
-\l__regex_max_active_int=\count287
-\l__regex_replacement_csnames_int=\count288
-\l__regex_match_count_int=\count289
-\l__regex_min_submatch_int=\count290
-\l__regex_submatch_int=\count291
-\l__regex_zeroth_submatch_int=\count292
-\g__regex_trace_regex_int=\count293
+\g__intarray_font_int=\count160
+\c__fp_leading_shift_int=\count161
+\c__fp_middle_shift_int=\count162
+\c__fp_trailing_shift_int=\count163
+\c__fp_big_leading_shift_int=\count164
+\c__fp_big_middle_shift_int=\count165
+\c__fp_big_trailing_shift_int=\count166
+\c__fp_Bigg_leading_shift_int=\count167
+\c__fp_Bigg_middle_shift_int=\count168
+\c__fp_Bigg_trailing_shift_int=\count169
+\c__kernel_randint_max_int=\count170
+\g__fp_array_int=\count171
+\l__fp_array_loop_int=\count172
+\l__sort_length_int=\count173
+\l__sort_min_int=\count174
+\l__sort_top_int=\count175
+\l__sort_max_int=\count176
+\l__sort_true_max_int=\count177
+\l__sort_block_int=\count178
+\l__sort_begin_int=\count179
+\l__sort_end_int=\count180
+\l__sort_A_int=\count181
+\l__sort_B_int=\count182
+\l__sort_C_int=\count183
+\l__tl_analysis_normal_int=\count184
+\l__tl_analysis_index_int=\count185
+\l__tl_analysis_nesting_int=\count186
+\l__tl_analysis_type_int=\count187
+\l__regex_internal_a_int=\count188
+\l__regex_internal_b_int=\count189
+\l__regex_internal_c_int=\count190
+\l__regex_balance_int=\count191
+\l__regex_group_level_int=\count192
+\l__regex_mode_int=\count193
+\c__regex_cs_in_class_mode_int=\count194
+\c__regex_cs_mode_int=\count195
+\l__regex_catcodes_int=\count196
+\l__regex_default_catcodes_int=\count197
+\c__regex_catcode_D_int=\count198
+\c__regex_catcode_S_int=\count199
+\c__regex_catcode_L_int=\count266
+\c__regex_catcode_O_int=\count267
+\c__regex_catcode_A_int=\count268
+\c__regex_all_catcodes_int=\count269
+\l__regex_show_lines_int=\count270
+\l__regex_min_state_int=\count271
+\l__regex_max_state_int=\count272
+\l__regex_left_state_int=\count273
+\l__regex_right_state_int=\count274
+\l__regex_capturing_group_int=\count275
+\l__regex_min_pos_int=\count276
+\l__regex_max_pos_int=\count277
+\l__regex_curr_pos_int=\count278
+\l__regex_start_pos_int=\count279
+\l__regex_success_pos_int=\count280
+\l__regex_curr_char_int=\count281
+\l__regex_curr_catcode_int=\count282
+\l__regex_last_char_int=\count283
+\l__regex_case_changed_char_int=\count284
+\l__regex_curr_state_int=\count285
+\l__regex_step_int=\count286
+\l__regex_min_active_int=\count287
+\l__regex_max_active_int=\count288
+\l__regex_replacement_csnames_int=\count289
+\l__regex_match_count_int=\count290
+\l__regex_min_submatch_int=\count291
+\l__regex_submatch_int=\count292
+\l__regex_zeroth_submatch_int=\count293
+\g__regex_trace_regex_int=\count294
 \c_empty_box=\box54
 \l_tmpa_box=\box55
 \l_tmpb_box=\box56
@@ -841,84 +838,84 @@ Package: expl3 2019-02-15 L3 programming layer (code)
 \l_tmpb_coffin=\box65
 \g_tmpa_coffin=\box66
 \g_tmpb_coffin=\box67
+\l__coffin_bounding_shift_dim=\dimen261
+\l__coffin_left_corner_dim=\dimen262
+\l__coffin_right_corner_dim=\dimen263
+\l__coffin_bottom_corner_dim=\dimen264
+\l__coffin_top_corner_dim=\dimen265
+\l__coffin_scaled_total_height_dim=\dimen266
+\l__coffin_scaled_width_dim=\dimen267
 \c__coffin_empty_coffin=\box68
 \l__coffin_display_coffin=\box69
 \l__coffin_display_coord_coffin=\box70
 \l__coffin_display_pole_coffin=\box71
-\l__coffin_display_offset_dim=\dimen261
-\l__coffin_display_x_dim=\dimen262
-\l__coffin_display_y_dim=\dimen263
+\l__coffin_display_offset_dim=\dimen268
+\l__coffin_display_x_dim=\dimen269
+\l__coffin_display_y_dim=\dimen270
 \g__file_internal_ior=\read3
-\l__coffin_bounding_shift_dim=\dimen264
-\l__coffin_left_corner_dim=\dimen265
-\l__coffin_right_corner_dim=\dimen266
-\l__coffin_bottom_corner_dim=\dimen267
-\l__coffin_top_corner_dim=\dimen268
-\l__coffin_scaled_total_height_dim=\dimen269
-\l__coffin_scaled_width_dim=\dimen270
-\l__seq_internal_a_int=\count294
-\l__seq_internal_b_int=\count295
+\l__seq_internal_a_int=\count295
+\l__seq_internal_b_int=\count296
+\c__deprecation_minus_one=\count297
 ) (/usr/share/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2019-02-15 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count296
+File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count298
 ))
-Package: xparse 2018-10-17 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count297
-\g__xparse_grabber_int=\count298
-\l__xparse_m_args_int=\count299
-\l__xparse_mandatory_args_int=\count300
-\l__xparse_v_nesting_int=\count301
+Package: xparse 2019-03-05 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count299
+\g__xparse_grabber_int=\count300
+\l__xparse_m_args_int=\count301
+\l__xparse_v_nesting_int=\count302
 )) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcblistingsutf8.code.tex
-Library (tcolorbox): 'tcblistingsutf8.code.tex' version '4.15'
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '4.20'
 (/usr/share/texmf-dist/tex/latex/oberdiek/listingsutf8.sty
 Package: listingsutf8 2016/05/16 v1.3 Allow UTF-8 in listings input (HO)
  (/usr/share/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count302
+\lst@mode=\count303
 \lst@gtempboxa=\box72
 \lst@token=\toks38
-\lst@length=\count303
+\lst@length=\count304
 \lst@currlwidth=\dimen271
-\lst@column=\count304
-\lst@pos=\count305
+\lst@column=\count305
+\lst@pos=\count306
 \lst@lostspace=\dimen272
 \lst@width=\dimen273
-\lst@newlines=\count306
-\lst@lineno=\count307
+\lst@newlines=\count307
+\lst@lineno=\count308
 \lst@maxwidth=\dimen274
  (/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
-\c@lstnumber=\count308
-\lst@skipnumbers=\count309
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count309
+\lst@skipnumbers=\count310
 \lst@framebox=\box73
 ) (/usr/share/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2018/09/02 1.7 listings configuration
+File: listings.cfg 2019/02/27 1.8b listings configuration
 ))
-Package: listings 2018/09/02 1.7 (Carsten Heinz)
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
  (/usr/share/texmf-dist/tex/generic/oberdiek/stringenc.sty
 Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO)
 )) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcblistings.code.tex
-Library (tcolorbox): 'tcblistings.code.tex' version '4.15'
+Library (tcolorbox): 'tcblistings.code.tex' version '4.20'
 (/usr/share/texmf-dist/tex/latex/tcolorbox/tcblistingscore.code.tex
-Library (tcolorbox): 'tcblistingscore.code.tex' version '4.15'
+Library (tcolorbox): 'tcblistingscore.code.tex' version '4.20'
 (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbprocessing.code.tex
-Library (tcolorbox): 'tcbprocessing.code.tex' version '4.15'
+Library (tcolorbox): 'tcbprocessing.code.tex' version '4.20'
 (/usr/share/texmf-dist/tex/latex/tools/shellesc.sty
 Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 69.
 ))
-\c@tcblisting=\count310
+\c@tcblisting=\count311
 ))) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbexternal.code.tex
-Library (tcolorbox): 'tcbexternal.code.tex' version '4.15'
+Library (tcolorbox): 'tcbexternal.code.tex' version '4.20'
 ) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbmagazine.code.tex
-Library (tcolorbox): 'tcbmagazine.code.tex' version '4.15'
+Library (tcolorbox): 'tcbmagazine.code.tex' version '4.20'
 ) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbvignette.code.tex
-Library (tcolorbox): 'tcbvignette.code.tex' version '4.15'
+Library (tcolorbox): 'tcbvignette.code.tex' version '4.20'
 (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
 File: tikzlibraryfadings.code.tex 2019/02/02 v3.1.1 (3.1.1)
  (/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
 File: pgflibraryfadings.code.tex 2019/02/02 v3.1.1 (3.1.1)
 ))) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcbposter.code.tex
-Library (tcolorbox): 'tcbposter.code.tex' version '4.15'
+Library (tcolorbox): 'tcbposter.code.tex' version '4.20'
 )) (/usr/share/texmf-dist/tex/latex/eurosym/eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box74
@@ -951,20 +948,20 @@ File: T1ClearSans-LF.fd 2014/03/14 (autoinst) Font definitions for T1/ClearSans-
 )
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 47.
-\c@mv@tabular=\count311
-\c@mv@boldtabular=\count312
+\c@mv@tabular=\count312
+\c@mv@boldtabular=\count313
  ABD: EveryShipout initializing macros (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count313
+\scratchcounter=\count314
 \scratchdimen=\dimen275
 \scratchbox=\box75
-\nofMPsegments=\count314
-\nofMParguments=\count315
+\nofMPsegments=\count315
+\nofMParguments=\count316
 \everyMPshowfont=\toks39
-\MPscratchCnt=\count316
+\MPscratchCnt=\count317
 \MPscratchDim=\dimen276
-\MPnumerator=\count317
-\makeMPintoPDFobject=\count318
+\MPnumerator=\count318
+\makeMPintoPDFobject=\count319
 \everyMPtoPDFconversion=\toks40
 ) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -986,7 +983,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count319
+\c@section@level=\count320
 )
 LaTeX Info: Redefining \ref on input line 47.
 LaTeX Info: Redefining \pageref on input line 47.
@@ -1030,17 +1027,17 @@ LaTeX Info: Redefining \nameref on input line 47.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count320
+\c@lstlisting=\count321
 (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks41
 \inpenc@posthook=\toks42
 )
-<Federico.png, id=43, 87.47649pt x 123.0628pt>
-File: Federico.png Graphic file (type png)
-<use Federico.png>
-Package pdftex.def Info: Federico.png  used on input line 72.
-(pdftex.def)             Requested size: 142.26378pt x 200.15492pt.
+<Federico1.png, id=43, 1120.185pt x 1575.8875pt>
+File: Federico1.png Graphic file (type png)
+<use Federico1.png>
+Package pdftex.def Info: Federico1.png  used on input line 72.
+(pdftex.def)             Requested size: 142.26378pt x 200.13548pt.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 24.88pt on input line 72.
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
@@ -1143,7 +1140,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 138--156
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Federico.png>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Federico1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 172--186
 
  []
@@ -1167,18 +1164,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 33698 strings out of 492616
- 666113 string characters out of 6135178
- 761877 words of memory out of 5000000
- 37148 multiletter control sequences out of 15000+600000
+ 33810 strings out of 492623
+ 668850 string characters out of 6135669
+ 758831 words of memory out of 5000000
+ 37261 multiletter control sequences out of 15000+600000
  569271 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,16n,101p,830b,900s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc}</usr/share/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/share/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on CV_Musciotto.pdf (2 pages, 2943794 bytes).
+Output written on CV_Musciotto.pdf (2 pages, 876251 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 73 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  162 words of extra memory for PDF output out of 10000 (max. 10000000)
 
