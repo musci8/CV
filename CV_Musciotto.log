@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.6.21)  28 JUN 2019 17:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.6.21)  28 JUN 2019 17:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1172,7 +1172,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  63i,16n,101p,830b,900s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc}</usr/share/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on CV_Musciotto.pdf (2 pages, 869223 bytes).
+Output written on CV_Musciotto.pdf (2 pages, 869224 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream

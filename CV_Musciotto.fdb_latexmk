@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1561736399 "CV_Musciotto.tex" "CV_Musciotto.pdf" "CV_Musciotto" 1561736400
+["pdflatex"] 1561737534 "CV_Musciotto.tex" "CV_Musciotto.pdf" "CV_Musciotto" 1561737535
   "/dev/null" 1561715696 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/share/texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc" 1557554766 2877 6ddb27cbef539831b4076105c848e789 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1557554374 3332 103109f5612ad95229751940c61aada0 ""
@@ -175,13 +175,13 @@
   "/usr/share/texmf/tex/latex/pgf-pie/pgf-pie.sty" 1559833725 10417 13bee4b32c34ea04501cc2e15e0b9bb9 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1561109220 3108838 48d7af47a698bfaef116c4b19309c0bf ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1561109207 7979416 b2139ff19e6a7447bd05a625564e7025 ""
-  "CV_Musciotto.aux" 1561736399 751 6928e81a9438d6914cd3b9d4121b9678 "pdflatex"
-  "CV_Musciotto.out" 1561736399 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV_Musciotto.tex" 1561736399 10781 4b976e3320bfa3e090c579f0ad6e5d8f ""
+  "CV_Musciotto.aux" 1561737535 751 6928e81a9438d6914cd3b9d4121b9678 "pdflatex"
+  "CV_Musciotto.out" 1561737534 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "CV_Musciotto.tex" 1561737533 10775 1bf88500bfbe3bd8655d918e25b0bc95 ""
   "Federico1.png" 1561392485 831341 21135a0ca0f6a6eef5b8eef7cc1be13a ""
   "twentysecondcv.cls" 1560780224 8614 1b6ca0178127e9277efffcc531976c51 ""
   (generated)
   "CV_Musciotto.out"
+  "CV_Musciotto.log"
   "CV_Musciotto.pdf"
   "CV_Musciotto.aux"
-  "CV_Musciotto.log"
