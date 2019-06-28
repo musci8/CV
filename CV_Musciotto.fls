@@ -309,7 +309,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/marvosym/umvs.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-lf-t1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-lf-t1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-lf-t1.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/public/eurosym/feymr10.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/intel/clearsans/ClearSans-lf-t1.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/intel/clearsans/ClearSans-lf-t1--base.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
@@ -328,5 +327,4 @@ INPUT ./CV_Musciotto.out
 INPUT ./CV_Musciotto.out
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc
 INPUT /usr/share/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb
-INPUT /usr/share/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb

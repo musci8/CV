@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.6.21)  24 JUN 2019 18:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.6.21)  28 JUN 2019 17:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1057,7 +1057,7 @@ Overfull \hbox (3.5164pt too wide) in paragraph at lines 72--72
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 72--72
-[]\T1/ClearSans-LF/m/n/10 Gutenberg ter 4, Bu-dapest,
+[]\T1/ClearSans-LF/m/n/10 Via Castel-n-uovo don Bosco,
  []
 
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/sc' will be
@@ -1104,58 +1104,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--72
 LaTeX Font Info:    Font shape `T1/ClearSans-LF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 85.
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--93
+Underfull \hbox (badness 10000) in paragraph at lines 84--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--109
+Underfull \hbox (badness 10000) in paragraph at lines 102--111
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--117
+Underfull \hbox (badness 10000) in paragraph at lines 116--119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--123
+Underfull \hbox (badness 10000) in paragraph at lines 122--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--129
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
 
  []
 
 
-Underfull \hbox (badness 2326) in paragraph at lines 150--150
+Underfull \hbox (badness 2326) in paragraph at lines 152--152
 [][]\T1/ClearSans-LF/m/sc/10 Patterns of trad-ing pro-files at the nordic stock ex-change. A
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--156
+Underfull \hbox (badness 10000) in paragraph at lines 140--156
 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Federico1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 172--186
+Underfull \hbox (badness 10000) in paragraph at lines 169--183
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--198
+Underfull \hbox (badness 10000) in paragraph at lines 187--195
 
  []
 
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 227.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 227.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 224.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 224.
  (./CV_Musciotto.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 227.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 227.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 224.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 224.
 Package rerunfilecheck Info: File `CV_Musciotto.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1164,18 +1164,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 33810 strings out of 492623
- 668850 string characters out of 6135669
- 758831 words of memory out of 5000000
- 37261 multiletter control sequences out of 15000+600000
- 569271 words of font info for 41 fonts, out of 8000000 for 9000
+ 33808 strings out of 492623
+ 668827 string characters out of 6135669
+ 759962 words of memory out of 5000000
+ 37260 multiletter control sequences out of 15000+600000
+ 569154 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,16n,101p,830b,900s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc}</usr/share/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/share/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on CV_Musciotto.pdf (2 pages, 876251 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc}</usr/share/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on CV_Musciotto.pdf (2 pages, 869223 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 69 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  162 words of extra memory for PDF output out of 10000 (max. 10000000)
 
